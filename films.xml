@@ -1,0 +1,74 @@
+<films>
+    <film>
+        <name>The Green Mile</name>
+        <genre>Detective</genre>
+        <rating>9.2/10</rating>
+        <release>May 19, 1999</release>
+    </film>
+    <film>
+        <name>Leon</name>
+        <genre>Action</genre>
+        <rating>8.7/10</rating>
+        <release>September 17, 1994</release>
+    </film>
+    <film>
+        <name>Aliens</name>
+        <genre>Horror</genre>
+        <rating>8.1/10</rating>
+        <release>October 26, 1986</release>
+    </film>
+    <film>
+        <name>Murder Mystery 2</name>
+        <genre>Detective</genre>
+        <rating>5.9/10</rating>
+        <release>May 19, 2023</release>
+    </film>
+    <film>
+        <name>Lock, Stock and Two Smoking Barrels</name>
+        <genre>Action</genre>
+        <rating>8.4/10</rating>
+        <release>September 17, 1998</release>
+    </film>
+    <film>
+        <name>Winnie-the-Pooh: Blood and Honey</name>
+        <genre>Horror</genre>
+        <rating>4.1/10</rating>
+        <release>October 26, 2023</release>
+    </film>
+    <film>
+        <name>Sherlock Holmes</name>
+        <genre>Detective</genre>
+        <rating>8.2/10</rating>
+        <release>May 19, 2009</release>
+    </film>
+    <film>
+        <name>Inglourious Basterds</name>
+        <genre>Action</genre>
+        <rating>8.3/10</rating>
+        <release>September 17, 2009</release>
+    </film>
+    <film>
+        <name>Split</name>
+        <genre>Horror</genre>
+        <rating>7.9/10</rating>
+        <release>October 26, 2017</release>
+    </film>
+    <film>
+        <name>Death note</name>
+        <genre>Detective</genre>
+        <rating>4.2/10</rating>
+        <release>May 19, 2017</release>
+    </film>
+    <film>
+        <name>Die Hard</name>
+        <genre>Action</genre>
+        <rating>8.2/10</rating>
+        <release>September 17, 1988</release>
+    </film>
+    <film>
+        <name>We</name>
+        <genre>Horror</genre>
+        <rating>6.7/10</rating>
+        <release>October 26, 2019</release>
+    </film>
+</films>
